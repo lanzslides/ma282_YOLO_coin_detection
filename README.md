@@ -15,12 +15,16 @@ December 4, 2025
 ## Quick Demonstration
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d573ab98-6f43-41f6-91ba-f17b1e306202" />
+
 Figure 1. Test image.
 
-
+<br>
 <img width="683" height="129" alt="image" src="https://github.com/user-attachments/assets/b43c452e-3983-469e-ab3e-16252ecef9e7" />
+
 Figure 2. Running the python script and its output.
 
+<br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7736639d-b721-4844-ae96-290807c8b535" />
+
 Figure 3. Annotated image as output.
 
